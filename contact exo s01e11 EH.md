@@ -6,9 +6,9 @@
 ## Contact
 N'hésitez pas une seule seconde, contactez-moi !
 
-* [mail@gmail.com](https://www.google.com/intl/fr/gmail/about/)
-* 06.00.00.00.00
-* [linkedIn](https://fr.linkedin.com/)
-* [Twitter](https://twitter.com/)
+* :mailbox: [mail@gmail.com](https://www.google.com/intl/fr/gmail/about/)
+* :telephone_receiver: 06.00.00.00.00
+* :necktie: [linkedIn](https://fr.linkedin.com/)
+* :bird: [Twitter](https://twitter.com/)
 ---
 :copyright: 2023 - Emile HENRY - [Me contacter](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/contact%20exo%20s01e11%20EH.md)
