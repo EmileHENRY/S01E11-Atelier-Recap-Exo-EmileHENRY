@@ -14,12 +14,12 @@
 * 2021 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2020 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### Formation
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit
+* 2021 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+* 2019 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+* 2015 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### Autres
-  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  * Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  * Permis B
+  * Basket
+  * Jeux vidéo
 ---
 :copyright: 2023 - Emile HENRY - [Me contacter](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/contact%20exo%20s01e11%20EH.md)
