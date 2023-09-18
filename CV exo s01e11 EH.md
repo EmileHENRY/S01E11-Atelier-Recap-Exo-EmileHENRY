@@ -12,11 +12,11 @@
 * 2022 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2021 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2020 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  ### Formation
+### Formation
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  ### Autres
+### Autres
   * Lorem ipsum dolor sit amet, consectetur adipiscing elit
   * Lorem ipsum dolor sit amet, consectetur adipiscing elit
   * Lorem ipsum dolor sit amet, consectetur adipiscing elit
