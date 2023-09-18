@@ -20,5 +20,5 @@
   * Lorem ipsum dolor sit amet, consectetur adipiscing elit
   * Lorem ipsum dolor sit amet, consectetur adipiscing elit
   * Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+---
 :copyright: 2023 - Emile HENRY - [Me contacter](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/contact%20exo%20s01e11%20EH.md)
