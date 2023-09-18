@@ -2,7 +2,7 @@
 # Emile HENRY
 Développeur Web junior, en formation "Développement Web et Accessibilité"
 
-[Acceuil](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY) - [Projet](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/projet.md)) - [CV](CV) - [contact](Contact)
+[Acceuil](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY) - [Projet](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/projet.md)) - [CV]([CV](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/CV%20exo%20s01e11%20EH.md)) - [contact](Contact)
 ## Mes projet
 |Client|Dates|Technologies|Lien|
 |:-----|:----|:-----------|:---|
