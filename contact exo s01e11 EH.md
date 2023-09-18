@@ -2,7 +2,7 @@
 # Emile HENRY
 Développeur Web junior, en formation "Développement Web et Accessibilité"
 
-[Acceuil](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY) - [Projet](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/projet.md)) - [CV]([CV](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/CV%20exo%20s01e11%20EH.md)) - [contact](Contact)
+[Acceuil](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY) - [Projet](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/projet.md)) - [CV]([CV](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/CV%20exo%20s01e11%20EH.md)) - [contact]([Contact](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/contact%20exo%20s01e11%20EH.md))
 ## Contact
 N'hésitez pas une seule seconde, contactez-moi !
 
@@ -11,4 +11,4 @@ N'hésitez pas une seule seconde, contactez-moi !
 * [linkedIn](LinkedIn)
 * [Twitter](Twitter)
 
-:copyright: 2023 - Emile HENRY - [Me contacter]()
+:copyright: 2023 - Emile HENRY - [Me contacter](https://github.com/EmileHENRY/S01E11-Atelier-Recap-Exo-EmileHENRY/blob/main/contact%20exo%20s01e11%20EH.md)
